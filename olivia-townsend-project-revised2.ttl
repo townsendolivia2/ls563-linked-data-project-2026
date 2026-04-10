@@ -1,0 +1,877 @@
+@prefix des: <http://olivia-townsend-project.org/designers/> .
+@prefix schema: <http://schema.org/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix vcard: <http://www.w3.org/2006/vcard/ns#> .
+@prefix wd: <https://www.wikidata.org/wiki/> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+
+wd:Q2034021  rdf:type  schema:Occupation .
+
+wd:Q57354622  rdf:type  schema:Organization .
+
+wd:Q45661  rdf:type  schema:Person .
+
+wd:Q7314  rdf:type  schema:Person .
+
+des:6      schema:birthPlace  wd:Q1055 ;
+        schema:brand       wd:Q1075391 ;
+        schema:brand       wd:Q629269 ;
+        schema:brand       wd:Q108024274 ;
+        rdf:type           schema:Person ;
+        schema:brand       wd:Q926575 ;
+        schema:alumniOf    wd:Q3268857 ;
+        schema:brand       wd:Q188326 ;
+        schema:knows       wd:Q30332144 ;
+        schema:brand       wd:Q5135229 ;
+        schema:brand       wd:Q218115 ;
+        schema:knows       wd:Q17590797 .
+
+wd:Q288029  rdf:type  schema:Person .
+
+des:10     schema:mentor         wd:Q159694 ;
+        schema:alumniOf       wd:Q16507803 ;
+        schema:mentor         wd:Q3171727 ;
+        schema:brand          wd:Q649646 ;
+        schema:knows          wd:Q3762870 ;
+        rdf:type              schema:Person ;
+        schema:alumniOf       wd:Q273593 ;
+        schema:hasOccupation  wd:Q3501317 ;
+        schema:birthPlace     wd:Q39981 ;
+        schema:mentor         wd:Q1028975 ;
+        schema:mentor         wd:Q3724525 ;
+        schema:mentor         wd:Q381088 .
+
+wd:Q34820  rdf:type  schema:Place .
+
+wd:Q3086469  rdf:type  schema:Person .
+
+wd:Q6700309  rdf:type  schema:Person .
+
+wd:Q601402  rdf:type  schema:Person .
+
+wd:Q3619492  rdf:type  schema:Person .
+
+des:16
+        rdf:type       schema:Person .
+
+wd:Q3762870  rdf:type  schema:Person .
+
+des:1      schema:hasOccupation  wd:Q3501317 ;
+        schema:brand          wd:Q696376 ;
+        schema:knows          wd:Q3619492 ;
+        schema:knows          wd:Q707862 ;
+        schema:knows          wd:Q229437 ;
+        schema:alumniOf       wd:Q3831926 ;
+        schema:birthPlace     wd:Q8471 ;
+        rdf:type              schema:Person .
+
+wd:Q3430391  rdf:type  schema:Person .
+
+wd:Q379664  rdf:type  schema:Person .
+
+wd:Q330009  rdf:type  schema:Person .
+
+des:7      schema:hasOccupation  wd:Q3501317 ;
+        schema:mentor         wd:Q3158853 ;
+        schema:mentor         wd:Q299211 ;
+        schema:brand          wd:Q3173870 ;
+        schema:birthPlace     wd:Q467132 ;
+        rdf:type              schema:Person .
+
+des:11     rdf:type              schema:Person ;
+        schema:brand          wd:Q191485 ;
+        schema:alumniOf       wd:Q838330 ;
+        schema:alumniOf       wd:Q659706 ;
+        schema:brand          wd:Q53472173 ;
+        schema:mentor         wd:Q453650 ;
+        schema:birthPlace     wd:Q233892 ;
+        schema:hasOccupation  wd:Q3501317 ;
+        schema:knows          wd:Q109795753 .
+
+wd:Q264490  rdf:type  schema:Person .
+
+wd:Q649646  rdf:type  schema:Organization .
+
+wd:Q6163766  rdf:type  schema:Person .
+
+wd:Q39709  rdf:type  schema:Place .
+
+wd:Q696376  rdf:type  schema:Organization .
+
+wd:Q167318  rdf:type  schema:Person .
+
+wd:Q1673431  rdf:type  schema:Person .
+
+wd:Q299211  rdf:type  schema:Person .
+
+wd:Q13498  rdf:type  schema:Place .
+
+wd:Q6757069  rdf:type  schema:Person .
+
+wd:Q453650  rdf:type  schema:Person .
+
+wd:Q171556  rdf:type  schema:Person .
+
+wd:Q231331  rdf:type  schema:Place .
+
+wd:Q2084103  rdf:type  schema:Person .
+
+des:2      rdf:type  schema:Person .
+
+wd:Q20639759  rdf:type  schema:Person .
+
+wd:Q5135229  rdf:type  schema:Organization .
+
+wd:Q18426  rdf:type  schema:Place .
+
+wd:Q1639239  rdf:type  schema:Occupation .
+
+wd:Q3171727  rdf:type  schema:Person .
+
+wd:Q268033  rdf:type  schema:Person .
+
+wd:Q8471  rdf:type  schema:Place .
+
+wd:Q242868  rdf:type  schema:Person .
+
+wd:Q229437  rdf:type  schema:Person .
+
+des:8      schema:hasOccupation  wd:Q3501317 ;
+        schema:mentor         wd:Q167318 ;
+        schema:mentor         wd:Q371411 ;
+        schema:brand          wd:Q136792595 ;
+        schema:alumniOf       wd:Q16507803 ;
+        schema:alumniOf       wd:Q1141980 ;
+        schema:birthPlace     wd:Q34664 ;
+        rdf:type              schema:Person .
+
+wd:Q3268857  rdf:type  schema:Organization .
+
+wd:Q18419  rdf:type  schema:Place .
+
+wd:Q707862  rdf:type  schema:Person .
+
+wd:Q26703582  rdf:type  schema:Person .
+
+des:12     schema:hasOccupation  wd:Q3501317 ;
+        schema:brand          wd:Q390107 ;
+        schema:brand          wd:Q759210 ;
+        schema:alumniOf       wd:Q1053996 ;
+        schema:birthPlace     wd:Q13498 ;
+        rdf:type              schema:Person .
+
+wd:Q1322403  rdf:type  schema:Organization .
+
+wd:Q371411  rdf:type  schema:Person .
+
+wd:Q1053996  rdf:type  schema:Organization .
+
+wd:Q13569894  rdf:type  schema:Organization .
+
+wd:Q838330  rdf:type  schema:Organization .
+
+wd:Q214800  rdf:type  schema:Person .
+
+wd:Q3501317  rdf:type  schema:Occupation .
+
+des:3   
+        rdf:type              schema:Person ;
+        schema:hasOccupation  wd:Q1639239 ;
+        schema:hasOccupation  wd:Q3501317 ;
+        schema:hasOccupation  wd:Q2034021 ;
+        schema:knows          wd:Q7314 ;
+        schema:hasOccupation  wd:Q43845 ;
+        schema:brand          wd:Q218115 ;
+        schema:knows          wd:Q2084103 ;
+        schema:knows          wd:Q3592054 ;
+        schema:birthPlace     wd:Q193821 .
+
+wd:Q193821  rdf:type  schema:Place .
+
+wd:Q1055  rdf:type  schema:Place .
+
+wd:Q18356227  rdf:type  schema:Person .
+
+wd:Q34664  rdf:type  schema:Place .
+
+wd:Q859363  rdf:type  schema:Organization .
+
+wd:Q469027  rdf:type  schema:Person .
+
+des:9      schema:hasOccupation  wd:Q3501317 ;
+        schema:brand          wd:Q57354622 ;
+        schema:birthPlace     wd:Q18419 ;
+        rdf:type              schema:Person .
+
+wd:Q17590797  rdf:type  schema:Person .
+
+wd:Q39981  rdf:type  schema:Place .
+
+wd:Q191485  rdf:type  schema:Organization .
+
+wd:Q6293628  rdf:type  schema:Person .
+
+wd:Q456243  rdf:type  schema:Person .
+
+wd:Q188326  rdf:type  schema:Organization .
+
+wd:Q53472173  rdf:type  schema:Organization .
+
+des:13     rdf:type              schema:Person ;
+        schema:alumniOf       wd:Q1322403 ;
+        schema:mentor         wd:Q381088 ;
+        schema:knows          wd:Q19560485 ;
+        schema:knows          wd:Q6293628 ;
+        schema:brand          wd:Q125214331 ;
+        schema:brand          wd:Q13569894 ;
+        schema:brand          wd:Q866899 ;
+        schema:mentor         wd:Q601402 ;
+        schema:knows          wd:Q4769132 ;
+        schema:knows          wd:Q18356227 ;
+        schema:brand          wd:Q5362329 ;
+        schema:birthPlace     wd:Q34820 ;
+        schema:knows          wd:Q11688341 ;
+        schema:knows          wd:Q5854181 ;
+        schema:hasOccupation  wd:Q3501317 ;
+        schema:knows          wd:Q6163766 ;
+        schema:brand          wd:Q1385309 ;
+        schema:knows          wd:Q6700309 .
+
+wd:Q21600644  rdf:type  schema:Person .
+
+wd:Q159694  rdf:type  schema:Person .
+
+wd:Q108024274  rdf:type  schema:Organization .
+
+wd:Q381088  rdf:type  schema:Person .
+
+wd:Q273593  rdf:type  schema:Organization .
+
+wd:Q233892  rdf:type  schema:Place .
+
+wd:Q3173870  rdf:type  schema:Organization .
+
+wd:Q659706  rdf:type  schema:Organization .
+
+wd:Q1075391  rdf:type  schema:Organization .
+
+wd:Q21427612  rdf:type  schema:Person .
+
+wd:Q759210  rdf:type  schema:Organization .
+
+wd:Q43845  rdf:type  schema:Occupation .
+
+des:4      schema:birthPlace  wd:Q333559 ;
+        schema:brand       wd:Q542767 ;
+        schema:knows       wd:Q100450537 ;
+        schema:knows       wd:Q3086469 ;
+        rdf:type           schema:Person ;
+        schema:knows       wd:Q21600644 ;
+        schema:knows       wd:Q21427612 ;
+        schema:knows       wd:Q20639759 ;
+        schema:alumniOf    wd:Q859363 .
+
+wd:Q844999  rdf:type  schema:Organization .
+
+wd:Q629269  rdf:type  schema:Organization .
+
+wd:Q100450537  rdf:type  schema:Person .
+
+wd:Q866899  rdf:type  schema:Organization .
+
+wd:Q3158853  rdf:type  schema:Person .
+
+wd:Q218115  rdf:type  schema:Organization .
+
+wd:Q109795753  rdf:type  schema:Person .
+
+des:14     schema:hasOccupation  wd:Q3501317 ;
+        schema:knows          wd:Q6757069 ;
+        schema:alumniOf       wd:Q12060065 ;
+        schema:alumniOf       wd:Q844999 ;
+        schema:birthPlace     wd:Q18426 ;
+        rdf:type              schema:Person .
+
+wd:Q7432601  rdf:type  schema:Organization .
+
+wd:Q4888312  rdf:type  schema:Organization .
+
+wd:Q542767  rdf:type  schema:Organization .
+
+wd:Q47541607  rdf:type  schema:Person .
+
+wd:Q76716  rdf:type  schema:Person .
+
+wd:Q1385309  rdf:type  schema:Organization .
+
+wd:Q3592054  rdf:type  schema:Person .
+
+wd:Q770037  rdf:type  schema:Person .
+
+wd:Q125214331  rdf:type  schema:Organization .
+
+wd:Q1141980  rdf:type  schema:Organization .
+
+wd:Q12060065  rdf:type  schema:Organization .
+
+wd:Q4769132  rdf:type  schema:Person .
+
+des:5      schema:hasOccupation  wd:Q3501317 ;
+        schema:mentor         wd:Q159694 ;
+        schema:brand          wd:Q2282172 ;
+        schema:knows          wd:Q770037 ;
+        schema:alumniOf       wd:Q29016640 ;
+        schema:birthPlace     wd:Q231331 ;
+        rdf:type              schema:Person .
+
+wd:Q926575  rdf:type  schema:Organization .
+
+wd:Q136792595  rdf:type  schema:Organization .
+
+wd:Q3831926  rdf:type  schema:Organization .
+
+wd:Q30332144  rdf:type  schema:Person .
+
+wd:Q1028975  rdf:type  schema:Person .
+
+wd:Q5362329  rdf:type  schema:Organization .
+
+wd:Q16507803  rdf:type  schema:Organization .
+
+wd:Q5854181  rdf:type  schema:Person .
+
+wd:Q390107  rdf:type  schema:Organization .
+
+wd:Q3724525  rdf:type  schema:Person .
+
+wd:Q11688341  rdf:type  schema:Person .
+
+wd:Q29016640  rdf:type  schema:Organization .
+
+wd:Q2282172  rdf:type  schema:Organization .
+
+wd:Q467132  rdf:type  schema:Place .
+
+wd:Q19560485  rdf:type  schema:Person .
+
+des:15  
+        rdf:type       schema:Person .
+
+des:0      schema:hasOccupation  wd:Q1639239 ;
+        schema:hasOccupation  wd:Q3501317 ;
+        schema:knows          wd:Q47541607 ;
+        schema:alumniOf       wd:Q7432601 ;
+        schema:alumniOf       wd:Q4888312 ;
+        schema:birthPlace     wd:Q39709 ;
+        rdf:type              schema:Person .
+
+wd:Q333559  rdf:type  schema:Place .
+
+@prefix cho: <http://olivia-townsend-project.org/choreographers/> .
+@prefix schema: <http://schema.org/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix vcard: <http://www.w3.org/2006/vcard/ns#> .
+@prefix wd: <https://www.wikidata.org/wiki/> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+
+wd:Q2269457  rdf:type  schema:Organization .
+
+wd:Q880624  rdf:type  schema:Organization .
+
+wd:Q2881259  rdf:type  schema:Organization .
+
+cho:12 
+        rdf:type       schema:Person .
+
+wd:Q4851651  rdf:type  schema:Organization .
+
+cho:3      schema:affiliation  wd:Q1632953 ;
+        schema:alumniOf     wd:Q4359408 ;
+        schema:birthPlace   wd:Q1342 ;
+        schema:affiliation  wd:Q131433828 ;
+        rdf:type            schema:Person ;
+        schema:birthDate    "1977-08-14T04:00Z"^^xsd:date ;
+        schema:affiliation  wd:Q449026 ;
+        schema:affiliation  wd:Q5215035 ;
+        schema:affiliation  wd:Q2741284 ;
+        schema:alumniOf     wd:Q797078 ;
+        schema:alumniOf     wd:Q7199264 ;
+        schema:affiliation  wd:Q1336942 ;
+        schema:affiliation  wd:Q7153943 ;
+        schema:affiliation  wd:Q4911093 .
+
+wd:Q5200072  rdf:type  schema:Person .
+
+wd:Q3375351  rdf:type  schema:Organization .
+
+wd:Q7199264  rdf:type  schema:Organization .
+
+wd:Q4359408  rdf:type  schema:Organization .
+
+wd:Q4911093  rdf:type  schema:Organization .
+
+cho:9      schema:birthPlace  wd:Q1184993 ;
+        schema:birthDate   "1952"^^xsd:date ;
+        rdf:type           schema:Person .
+
+wd:Q1187806  rdf:type  schema:Organization .
+
+wd:Q2061176  rdf:type  schema:Organization .
+
+wd:Q23482  rdf:type  schema:Place .
+
+wd:Q463443  rdf:type  schema:Organization .
+
+wd:Q868700  rdf:type  schema:Place .
+
+cho:4      schema:affiliation  wd:Q30753014 ;
+        schema:affiliation  wd:Q1336942 ;
+        schema:alumniOf     wd:Q2061176 ;
+        rdf:type            schema:Person .
+
+wd:Q65  rdf:type  schema:Place .
+
+wd:Q18157587  rdf:type  schema:Organization .
+
+wd:Q449026  rdf:type  schema:Organization .
+
+wd:Q5215035  rdf:type  schema:Organization .
+
+wd:Q935018  rdf:type  schema:Organization .
+
+wd:Q810900  rdf:type  schema:Organization .
+
+wd:Q2929775  rdf:type  schema:Organization .
+
+wd:Q681931  rdf:type  schema:Organization .
+
+wd:Q1003699  rdf:type  schema:Place .
+
+wd:Q1342  rdf:type  schema:Place .
+
+wd:Q510220  rdf:type  schema:Organization .
+
+wd:Q2881270  rdf:type  schema:Organization .
+
+wd:Q60  rdf:type  schema:Place .
+
+wd:Q880447  rdf:type  schema:Organization .
+
+wd:Q1184993  rdf:type  schema:Place .
+
+wd:Q805232  rdf:type  schema:Organization .
+
+wd:Q797078  rdf:type  schema:Organization .
+
+wd:Q55829377  rdf:type  schema:Organization .
+
+cho:5      schema:affiliation  wd:Q28403613 ;
+        schema:affiliation  wd:Q2929775 ;
+        schema:alumniOf     wd:Q19945031 ;
+        schema:birthPlace   wd:Q23482 ;
+        schema:birthDate    "1927-01-01T05:00Z"^^xsd:date ;
+        rdf:type            schema:Person .
+
+wd:Q390354  rdf:type  schema:Organization .
+
+wd:Q214423  rdf:type  schema:Organization .
+
+wd:Q2903368  rdf:type  schema:Person .
+
+wd:Q1150942  rdf:type  schema:Organization .
+
+wd:Q24988331  rdf:type  schema:Organization .
+
+wd:Q12892  rdf:type  schema:Place .
+
+wd:Q28403613  rdf:type  schema:Organization .
+
+cho:0      schema:affiliation  wd:Q810900 ;
+        schema:affiliation  wd:Q18157587 ;
+        schema:alumniOf     wd:Q1187806 ;
+        schema:birthPlace   wd:Q1342 ;
+        schema:birthDate    "1894-05-11T00:00Z"^^xsd:date ;
+        rdf:type            schema:Person .
+
+wd:Q4303976  rdf:type  schema:Organization .
+
+cho:6      schema:affiliation  wd:Q880447 ;
+        schema:affiliation  wd:Q18157587 ;
+        schema:affiliation  wd:Q55829377 ;
+        schema:alumniOf     wd:Q1134192 ;
+        schema:birthPlace   wd:Q868700 ;
+        schema:birthDate    "1919-04-16T04:00Z"^^xsd:date ;
+        rdf:type            schema:Person .
+
+wd:Q3180342  rdf:type  schema:Organization .
+
+wd:Q1810961  rdf:type  schema:Organization .
+
+wd:Q19945031  rdf:type  schema:Organization .
+
+wd:Q6451024  rdf:type  schema:Person .
+
+wd:Q318364  rdf:type  schema:Person .
+
+wd:Q7153943  rdf:type  schema:Organization .
+
+wd:Q863813  rdf:type  schema:Organization .
+
+cho:10     schema:affiliation  wd:Q24988331 ;
+        schema:affiliation  wd:Q4851651 ;
+        schema:affiliation  wd:Q390354 ;
+        schema:affiliation  wd:Q1150942 ;
+        schema:birthPlace   wd:Q65 ;
+        schema:birthDate    "1946-07-08T04:00Z"^^xsd:date ;
+        rdf:type            schema:Person .
+
+wd:Q135321817  rdf:type  schema:Person .
+
+cho:1      rdf:type  schema:Person .
+
+wd:Q235209  rdf:type  schema:Person .
+
+cho:7      schema:affiliation  wd:Q323283 ;
+        schema:affiliation  wd:Q463443 ;
+        schema:affiliation  wd:Q4303976 ;
+        schema:affiliation  wd:Q1503773 ;
+        schema:affiliation  wd:Q214423 ;
+        schema:birthPlace   wd:Q2280 ;
+        schema:birthDate    "1891-01-08T00:00Z"^^xsd:date ;
+        rdf:type            schema:Person .
+
+wd:Q2741284  rdf:type  schema:Organization .
+
+wd:Q30753014  rdf:type  schema:Organization .
+
+wd:Q2855619  rdf:type  schema:Organization .
+
+wd:Q529129  rdf:type  schema:Person .
+
+wd:Q1134192  rdf:type  schema:Organization .
+
+wd:Q119413274  rdf:type  schema:Person .
+
+wd:Q706362  rdf:type  schema:Person .
+
+wd:Q2280  rdf:type  schema:Place .
+
+wd:Q1503773  rdf:type  schema:Organization .
+
+cho:11     schema:affiliation  wd:Q2881259 ;
+        schema:affiliation  wd:Q2855619 ;
+        schema:alumniOf     wd:Q3375351 ;
+        schema:birthPlace   wd:Q12892 ;
+        schema:birthDate    "1976-03-10T05:00Z"^^xsd:date ;
+        rdf:type            schema:Person .
+
+wd:Q452868  rdf:type  schema:Person .
+
+cho:2      schema:affiliation  wd:Q2269457 ;
+        schema:affiliation  wd:Q323283 ;
+        rdf:type            schema:Person ;
+        schema:birthDate    "1949-12-30T05:00Z"^^xsd:date ;
+        schema:affiliation  wd:Q681931 ;
+        schema:affiliation  wd:Q2881270 ;
+        schema:alumniOf     wd:Q3180342 ;
+        schema:birthPlace   wd:Q60 ;
+        schema:affiliation  wd:Q1503773 ;
+        schema:alumniOf     wd:Q935018 ;
+        schema:affiliation  wd:Q3180342 ;
+        schema:affiliation  wd:Q805232 ;
+        schema:affiliation  wd:Q1150942 ;
+        schema:affiliation  wd:Q880624 ;
+        schema:affiliation  wd:Q510220 ;
+        schema:affiliation  wd:Q1810961 ;
+        schema:affiliation  wd:Q1336942 .
+
+wd:Q1336942  rdf:type  schema:Organization .
+
+wd:Q131433828  rdf:type  schema:Organization .
+
+wd:Q217764  rdf:type  schema:Person .
+
+wd:Q487604  rdf:type  schema:Person .
+
+cho:8      schema:affiliation  wd:Q4911093 ;
+        schema:alumniOf     wd:Q863813 ;
+        schema:birthPlace   wd:Q1003699 ;
+        schema:birthDate    "1952-02-15T05:00Z"^^xsd:date ;
+        rdf:type            schema:Person .
+
+wd:Q1632953  rdf:type  schema:Organization .
+
+wd:Q323283  rdf:type  schema:Organization .
+
+@prefix dw: <http://olivia-townsend-project.org/dance-works/> .
+@prefix schema: <http://schema.org/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix vcard: <http://www.w3.org/2006/vcard/ns#> .
+@prefix wd: <https://www.wikidata.org/wiki/> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+
+wd:Q3438131  rdf:type  schema:Person .
+
+wd:Q45661  rdf:type  schema:Person .
+
+dw:17     schema:contributor  wd:Q124748631 ;
+        schema:producer     wd:Q510220 ;
+        schema:creator      wd:Q706362 ;
+        schema:name         "Orpheus" ;
+        rdf:type            schema:CreativeWork .
+
+wd:Q288029  rdf:type  schema:Person .
+
+wd:Q706362  rdf:type  schema:Person .
+
+dw:1      schema:contributor  wd:Q264490 ;
+        schema:producer     wd:Q1336942 ;
+        schema:creator      wd:Q706362 ;
+        schema:name         "Herman Schmerman pas de deux" ;
+        rdf:type            schema:CreativeWork .
+
+dw:12     schema:contributor  wd:Q350844 ;
+        schema:producer     wd:Q805232 ;
+        schema:creator      wd:Q3166052 ;
+        schema:name         "La Source" ;
+        rdf:type            schema:CreativeWork .
+
+dw:7      schema:producer  wd:Q30753014 ;
+        schema:creator   wd:Q119413274 ;
+        schema:name      "Rising Water" ;
+        rdf:type         schema:CreativeWork .
+
+wd:Q3166052  rdf:type  schema:Person .
+
+wd:Q487604  rdf:type  schema:Person .
+
+wd:Q124748631  rdf:type  schema:Person .
+
+wd:Q264490  rdf:type  schema:Person .
+
+wd:Q2881198  rdf:type  schema:Organization .
+
+dw:2      schema:contributor  wd:Q2416101 ;
+        schema:producer     wd:Q1336942 ;
+        schema:creator      wd:Q119414361 ;
+        schema:name         "The Exchange" ;
+        rdf:type            schema:CreativeWork .
+
+wd:Q6451024  rdf:type  schema:Person .
+
+dw:13     schema:contributor  wd:Q288029 ;
+        schema:producer     wd:Q18157587 ;
+        schema:creator      wd:Q487604 ;
+        schema:name         "Deaths and Entrances" ;
+        rdf:type            schema:CreativeWork .
+
+wd:Q510220  rdf:type  schema:Organization .
+
+wd:Q583186  rdf:type  schema:Person .
+
+dw:8      schema:contributor  wd:Q264490 ;
+        schema:producer     wd:Q2881238 ;
+        schema:creator      wd:Q217764 ;
+        schema:name         "Dyonisos" ;
+        rdf:type            schema:CreativeWork .
+
+wd:Q242868  rdf:type  schema:Person .
+
+wd:Q30753014  rdf:type  schema:Organization .
+
+wd:Q805232  rdf:type  schema:Organization .
+
+wd:Q26703582  rdf:type  schema:Person .
+
+wd:Q119413274  rdf:type  schema:Person .
+
+wd:Q214800  rdf:type  schema:Person .
+
+wd:Q5561635  rdf:type  schema:Person .
+
+dw:3      schema:contributor  wd:Q2338161 ;
+        schema:producer     wd:Q1336942 ;
+        schema:creator      wd:Q119413274 ;
+        schema:name         "Judah" ;
+        rdf:type            schema:CreativeWork .
+
+dw:14     schema:contributor  wd:Q456243 ;
+        schema:producer     wd:Q18157587 ;
+        schema:creator      wd:Q487604 ;
+        schema:name         "Acts of Light" ;
+        rdf:type            schema:CreativeWork .
+
+wd:Q350844  rdf:type  schema:Person .
+
+dw:9      schema:contributor  wd:Q242868 ;
+        schema:producer     wd:Q2881198 ;
+        schema:creator      wd:Q477891 ;
+        schema:name         "Snow White" ;
+        rdf:type            schema:CreativeWork .
+
+wd:Q456243  rdf:type  schema:Person .
+
+wd:Q1336942  rdf:type  schema:Organization .
+
+wd:Q18157587  rdf:type  schema:Organization .
+
+wd:Q119414361  rdf:type  schema:Person .
+
+wd:Q2881238  rdf:type  schema:Organization .
+
+wd:Q477891  rdf:type  schema:Person .
+
+dw:4      schema:contributor  wd:Q26703582 ;
+        schema:producer     wd:Q1336942 ;
+        schema:creator      wd:Q119413274 ;
+        schema:name         "Composer's Holiday" ;
+        rdf:type            schema:CreativeWork .
+
+dw:15     schema:contributor  wd:Q456243 ;
+        schema:producer     wd:Q18157587 ;
+        schema:creator      wd:Q487604 ;
+        schema:name         "Persephone" ;
+        rdf:type            schema:CreativeWork .
+
+wd:Q214423  rdf:type  schema:Organization .
+
+wd:Q235209  rdf:type  schema:Person .
+
+dw:10     schema:contributor  wd:Q3438131 ;
+        schema:producer     wd:Q1336942 ;
+        schema:creator      wd:Q583186 ;
+        schema:name         "Two Hearts" ;
+        rdf:type            schema:CreativeWork .
+
+dw:5      schema:contributor  wd:Q5561635 ;
+        schema:producer     wd:Q1336942 ;
+        schema:creator      wd:Q6451024 ;
+        schema:name         "The Runaway" ;
+        rdf:type            schema:CreativeWork .
+
+dw:16     schema:contributor  wd:Q214800 ;
+        schema:producer     wd:Q18157587 ;
+        schema:creator      wd:Q487604 ;
+        schema:name         "Maple Leaf Rag" ;
+        rdf:type            schema:CreativeWork .
+
+wd:Q2338161  rdf:type  schema:Person .
+
+wd:Q217764  rdf:type  schema:Person .
+
+wd:Q2416101  rdf:type  schema:Person .
+
+dw:0      schema:contributor  wd:Q456243 ;
+        schema:producer     wd:Q18157587 ;
+        schema:creator      wd:Q487604 ;
+        schema:name         "Lucifer" ;
+        rdf:type            schema:CreativeWork .
+
+dw:11     schema:contributor  wd:Q45661 ;
+        schema:producer     wd:Q214423 ;
+        schema:creator      wd:Q235209 ;
+        schema:name         "Boléro" ;
+        rdf:type            schema:CreativeWork .
+
+@prefix cos: <http://olivia-townsend-project.org/costumes/> .
+@prefix schema: <http://schema.org/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix vcard: <http://www.w3.org/2006/vcard/ns#> .
+@prefix wd: <https://www.wikidata.org/wiki/> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+
+wd:Q45661  rdf:type  schema:Person .
+
+cos:1      rdf:type  schema:CreativeWork .
+
+cos:7      schema:producer  wd:Q805232 ;
+        schema:creator   wd:Q350844 ;
+        schema:name      "Tiara" ;
+        rdf:type         schema:CreativeWork .
+
+cos:10     schema:creator  wd:Q729418 ;
+        schema:name     "Two-Person Fabric Creation" ;
+        rdf:type        schema:CreativeWork .
+
+cos:8      schema:creator  wd:Q242868 ;
+        schema:name     "Nightingale 1985" ;
+        rdf:type        schema:CreativeWork .
+
+cos:2      schema:producer  wd:Q214423 ;
+        schema:creator   wd:Q45661 ;
+        schema:name      "Costume for La Perlouse in Le Train Bleu" ;
+        rdf:type         schema:CreativeWork .
+
+wd:Q469027  rdf:type  schema:Person .
+
+cos:11     schema:creator  wd:Q469027 ;
+        schema:name     "Pleated Costume" ;
+        rdf:type        schema:CreativeWork .
+
+cos:9      schema:producer  wd:Q283339 ;
+        schema:creator   wd:Q171556 ;
+        schema:name      "Esmerelda's Tutu" ;
+        rdf:type         schema:CreativeWork .
+
+wd:Q242868  rdf:type  schema:Person .
+
+cos:3      schema:producer  wd:Q1336942 ;
+        schema:name      "Black and White Graphic Tutu" ;
+        rdf:type         schema:CreativeWork .
+
+cos:4      schema:producer  wd:Q283339 ;
+        schema:creator   wd:Q3430391 ;
+        schema:name      "Sheer Skeleton Leotard" ;
+        rdf:type         schema:CreativeWork .
+
+wd:Q171556  rdf:type  schema:Person .
+
+cos:5      schema:producer  wd:Q2881198 ;
+        schema:creator   wd:Q242868 ;
+        schema:name      "Wicked Stepmother's Corset" ;
+        rdf:type         schema:CreativeWork .
+
+wd:Q729418  rdf:type  schema:Person .
+
+wd:Q3430391  rdf:type  schema:Person .
+
+cos:6      schema:producer  wd:Q2881198 ;
+        schema:creator   wd:Q242868 ;
+        schema:name      "Wicked Stepmother's Trenchcoat" ;
+        rdf:type         schema:CreativeWork .
+
+cos:0      schema:producer  wd:Q214423 ;
+        schema:creator   wd:Q45661 ;
+        schema:name      "Costume for a Gigolo in Le Train Bleu" ;
+        rdf:type         schema:CreativeWork .
+
+wd:Q350844  rdf:type  schema:Person .
+
+cho:3	schema:creator	dw:5 .
+cho:0	schema:creator	dw:0 .
+cho:2	schema:creator	dw:1 .
+cho:4	schema:creator	dw:3 .
+cho:4	schema:creator	dw:4 .
+cho:4	schema:creator	dw:7 .
+cho:5	schema:creator	dw:8 .
+des:3	schema:creator	cos:0 .
+des:3	schema:creator	cos:2 .
+des:12	schema:creator	cos:4 .
+des:7	schema:creator	cos:5 .
+des:7	schema:creator	cos:6 .
+des:7	schema:creator	cos:8 .
+des:5	schema:creator	cos:9 .
+cos:6	schema:isPartOf	dw:9 .
+cos:5	schema:isPartOf	dw:9 .
